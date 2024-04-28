@@ -1,0 +1,17 @@
+
+Aloo Tikki
+Aloo Tikki
+Aloo Tikki
+Aloo Tikki
+Biryani
+Number of items detected: 5
+
+French Fries
+Number of items detected: 1
+
+Burger
+Number of items detected: 1
+
+Palak Paneer
+Butter Chicken
+Number of items detected: 2
