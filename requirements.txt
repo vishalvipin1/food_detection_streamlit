@@ -17,6 +17,7 @@ ultralytics
 # Logging -------------------------------------
 tensorboard>=2.4.1
 # wandb
+surprise
 
 # Plotting ------------------------------------
 pandas>=1.1.4
